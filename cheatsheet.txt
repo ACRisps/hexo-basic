@@ -1,0 +1,11 @@
+新post：
+hexo new "My New Post"
+
+启动服务器：
+hexo server
+
+本地测试：
+hexo g && hexo s
+
+部署：
+hexo clean && hexo deploy
